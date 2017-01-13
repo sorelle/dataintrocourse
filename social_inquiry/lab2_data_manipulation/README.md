@@ -14,10 +14,6 @@
 
 * more for loops
 * conditionals (if statements, if/else)
-* dictionaries
-* type conversion
 * sys.maxint
-* mod (%)
 * booleans (and, or, not)
 * csv data parsing!
-* understanding the social sources of data 
